@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Dec_2017.cpp
+d:\personal\techdevplus\codechallenge\dec_2017\dec_2017\dec_2017.cpp(36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\personal\techdevplus\codechallenge\dec_2017\dec_2017\dec_2017.cpp(69): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+d:\personal\techdevplus\codechallenge\dec_2017\dec_2017\dec_2017.cpp(76): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Dec_2017.vcxproj -> D:\Personal\techdevplus\CodeChallenge\Dec_2017\Debug\Dec_2017.exe
