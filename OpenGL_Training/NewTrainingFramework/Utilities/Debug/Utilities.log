@@ -1,0 +1,25 @@
+﻿Build started 12/27/2017 4:24:50 PM.
+     1>Project "G:\NewTraining_18_07_2014\NewTrainingFramework\Utilities\Utilities.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IG:\NewTraining_18_07_2014\NewTrainingFramework\\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Utilities.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IG:\NewTraining_18_07_2014\NewTrainingFramework\\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Utilities.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt esMath.cpp esShader.cpp esUtil.cpp esUtil_win.cpp TGA.cpp
+         TGA.cpp
+         esUtil_win.cpp
+         esUtil.cpp
+         esShader.cpp
+         esMath.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"G:\NewTraining_18_07_2014\NewTrainingFramework\Debug\Utilities.lib" /NOLOGO Debug\esMath.obj
+         Debug\esShader.obj
+         Debug\esUtil.obj
+         Debug\esUtil_win.obj
+         Debug\stdafx.obj
+         Debug\TGA.obj
+         Utilities.vcxproj -> G:\NewTraining_18_07_2014\NewTrainingFramework\Debug\Utilities.lib
+     1>Done Building Project "G:\NewTraining_18_07_2014\NewTrainingFramework\Utilities\Utilities.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.56
